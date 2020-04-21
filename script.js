@@ -1,0 +1,12 @@
+let userName = "Вася Пупкин";
+let digit = 123n;
+let simpleDigit = 17;
+let toBe = true;
+let empty = null;
+alert(`Привет ${userName}`);
+console.log(typeof userName);
+console.log(typeof digit);
+console.log(typeof question);
+console.log(typeof simpleDigit);
+console.log(typeof toBe);
+console.log(typeof empty);
